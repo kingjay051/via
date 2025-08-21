@@ -71,26 +71,26 @@ PLAYLIST_FETCH_LIMIT = int(getenv("PLAYLIST_FETCH_LIMIT", "2500"))
 
 # ───── Bot Media Assets ───── #
 START_VIDS = [
-    "https://files.catbox.moe/s5fey0.jpg",
+    "https://files.catbox.moe/tim0gw.jpg",
 ]
 
 STICKERS = [
     "CAACAgUAAyEGAASjG7MBAAIeRmiha5UzWPvDGgh90t2fsaeb8s60AAIIGQACi7rJVHQD5s5RcEN9HgQ",
     "CAACAgUAAyEGAASjG7MBAAIeSWiha7I3ZT-QlxUC9oaMrrAucBDVAAJeFwACrjjBVBTExokRLfQOHgQ"
 ]
-HELP_IMG_URL = "https://files.catbox.moe/s5fey0.jpg"
-PING_VID_URL = "https://files.catbox.moe/s5fey0.jpg"
-PLAYLIST_IMG_URL = "https://files.catbox.moe/s5fey0.jpg"
-STATS_VID_URL = "https://files.catbox.moe/s5fey0.jpg"
-TELEGRAM_AUDIO_URL = "https://files.catbox.moe/s5fey0.jpg"
-TELEGRAM_VIDEO_URL = "https://files.catbox.moe/s5fey0.jpg"
-STREAM_IMG_URL = "https://files.catbox.moe/1zpysu.jpg"
-SOUNCLOUD_IMG_URL = "https://files.catbox.moe/s5fey0.jpg"
-YOUTUBE_IMG_URL = "https://files.catbox.moe/s5fey0.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/s5fey0.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/s5fey0.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/s5fey0.jpg"
-FAILED = "https://files.catbox.moe/s5fey0.jpg"
+HELP_IMG_URL = "https://files.catbox.moe/tim0gw.jpg"
+PING_VID_URL = "https://files.catbox.moe/tim0gw.jpg"
+PLAYLIST_IMG_URL = "https://files.catbox.moe/tim0gw.jpg"
+STATS_VID_URL = "https://files.catbox.moe/tim0gw.jpg"
+TELEGRAM_AUDIO_URL = "https://files.catbox.moe/tim0gw.jpg"
+TELEGRAM_VIDEO_URL = "https://files.catbox.moe/tim0gw.jpg"
+STREAM_IMG_URL = "https://files.catbox.moe/tim0gw.jpg"
+SOUNCLOUD_IMG_URL = "https://files.catbox.moe/tim0gw.jpg"
+YOUTUBE_IMG_URL = "https://files.catbox.moe/tim0gw.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/tim0gw.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/tim0gw.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/tim0gw.jpg"
+FAILED = "https://files.catbox.moe/tim0gw.jpg"
 
 # ───── Utility & Functional ───── #
 def time_to_seconds(time: str) -> int:
