@@ -75,8 +75,8 @@ START_VIDS = [
 ]
 
 STICKERS = [
-    "CAACAgUAAyEGAASjG7MBAAIeRmiha5UzWPvDGgh90t2fsaeb8s60AAIIGQACi7rJVHQD5s5RcEN9HgQ",
-    "CAACAgUAAyEGAASjG7MBAAIeSWiha7I3ZT-QlxUC9oaMrrAucBDVAAJeFwACrjjBVBTExokRLfQOHgQ"
+    "CAACAgUAAxkBAjOAo2im83aUwA_FZw-CQ9HxYW0uNLfiAAKAGQAC4Jw5VVkKvcFe0y3iNgQ",
+    "CAACAgUAAxkBAjOBCWim8-v7Vqu9rJY2g4lHXSaBFirhAAKKGQAC4Jw5VTps7e7QZSfsNgQ"
 ]
 HELP_IMG_URL = "https://files.catbox.moe/tim0gw.jpg"
 PING_VID_URL = "https://files.catbox.moe/tim0gw.jpg"
