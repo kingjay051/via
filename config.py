@@ -11,16 +11,16 @@ API_ID = int(getenv("API_ID"))
 API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 
-OWNER_ID = int(getenv("OWNER_ID", 6305402536))
-OWNER_USERNAME = getenv("OWNER_USERNAME", "Dzkyou")
-BOT_USERNAME = getenv("BOT_USERNAME", "aleamusicbot")
-BOT_NAME = getenv("BOT_NAME", "ᴀʟᴇ ᴍᴜsɪᴄ")
-ASSUSERNAME = getenv("ASSUSERNAME", "dirawwy")
-EVALOP = list(map(int, getenv("EVALOP", "6305402536").split()))
+OWNER_ID = int(getenv("OWNER_ID", 2011627994))
+OWNER_USERNAME = getenv("OWNER_USERNAME", "assistance08")
+BOT_USERNAME = getenv("BOT_USERNAME", "suhermusic_ibot")
+BOT_NAME = getenv("BOT_NAME", "HERMUSIC")
+ASSUSERNAME = getenv("ASSUSERNAME", "assistance08")
+EVALOP = list(map(int, getenv("EVALOP", "2011627994").split()))
 
 # ───── Mongo & Logging ───── #
 MONGO_DB_URI = getenv("MONGO_DB_URI")
-LOGGER_ID = int(getenv("LOGGER_ID", "-1002730786733"))
+LOGGER_ID = int(getenv("LOGGER_ID", "-1002288511799"))
 
 # ───── Limits and Durations ───── #
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
@@ -30,7 +30,7 @@ TG_AUDIO_FILESIZE_LIMIT = int(getenv("TG_AUDIO_FILESIZE_LIMIT", "5242880000"))
 TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", "5242880000"))
 
 # ───── Custom API Configs ───── #
-COOKIE_URL = getenv("COOKIE_URL"  "https://pastebin.com/twh5xXun") #necessary
+COOKIE_URL = getenv("COOKIE_URL"  "https://pastebin.com/FZwUMVnx") #necessary
 API_URL = getenv("API_URL") #optional
 API_KEY = getenv("API_KEY") #optional
 
@@ -39,13 +39,13 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 # ───── Git & Updates ───── #
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/jaadisini/TuneVia")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/kingjay051/via")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Master")
 GIT_TOKEN = getenv("GIT_TOKEN")
 
 # ───── Support & Community ───── #
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/dzdisni")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/DZareaa")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/moonlitMirage3")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/suheroku")
 
 # ───── Assistant Auto Leave ───── #
 AUTO_LEAVING_ASSISTANT = False
