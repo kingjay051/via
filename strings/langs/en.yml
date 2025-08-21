@@ -157,7 +157,7 @@ str_2: "➻ Stream valid terverifikasi.\n\nMemproses..."
 str_3: "Gagal menyiarkan live stream YouTube, format live tidak ditemukan."
 
 ping_1: "{0} sedang ping..."
-ping_2: "{1}\n\n🏓 Ping : {0}ms..\n\n➻ Statistik sistem:\n\n↬ Waktu aktif: {2}\n↬ RAM: {3}\n↬ CPU: {4}\n↬ Disk: {5}\n↬ Py-TgCalls: {6}ms\n\n Oleh » dzkyu"
+ping_2: "{1}\n\n🏓 Ping : {0}ms..\n\n➻ Statistik sistem:\n\n↬ Waktu aktif: {2}\n↬ RAM: {3}\n↬ CPU: {4}\n↬ Disk: {5}\n↬ Py-TgCalls: {6}ms\n\n Oleh » suher"
 
 queue_1: "» Mengambil antrean...\n\nHarap tunggu..."
 queue_2: "» Antrean kosong."
